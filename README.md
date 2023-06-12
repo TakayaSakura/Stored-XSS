@@ -1,2 +1,0 @@
-# Stored-XSS
-# Stored-XSS
