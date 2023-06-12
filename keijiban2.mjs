@@ -8,7 +8,7 @@ http.createServer(async(req,res) =>{
     // console.log(result);
 
     let data = {
-        comment : ""
+        comment : " "
     };
 
     res.end(`<!DOCTYPE html>
